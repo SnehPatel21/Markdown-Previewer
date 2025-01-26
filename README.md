@@ -16,10 +16,11 @@ A real-time Markdown editor and previewer built with React, offering instant pre
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** React
+- **Frontend Framework:** React with TypeScript
 - **Markdown Processing:** react-markdown, remark-gfm
 - **Styling:** CSS Modules/Styled Components
 - **Testing:** Jest & React Testing Library
+- **Type Checking:** TypeScript
 - **Code Quality:** ESLint, Prettier
 - **Build Tool:** Vite
 
@@ -49,6 +50,7 @@ The application will be available at `http://localhost:5173`
 
 - Node.js (v18 or higher)
 - npm (v9 or higher)
+- TypeScript knowledge for contributing
 
 ### Available Scripts
 
@@ -56,6 +58,7 @@ The application will be available at `http://localhost:5173`
 - `npm run build` - Build for production
 - `npm run test` - Run tests
 - `npm run lint` - Run ESLint
+- `npm run type-check` - Run TypeScript compiler checks
 - `npm run format` - Format code with Prettier
 
 ## 🧪 Testing
