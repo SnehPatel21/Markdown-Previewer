@@ -1,0 +1,4 @@
+/* Custom markdown styles will go here */
+.markdown-content {
+  @apply prose max-w-none;
+}
