@@ -26,7 +26,8 @@ const Layout: React.FC = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://www.buymeacoffee.com"
+                href="https://buymeacoffee.com/snehpatel2106
+                "
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center space-x-2 px-4 py-2 bg-amber-500 text-white rounded-lg hover:bg-amber-600 transition-colors"
